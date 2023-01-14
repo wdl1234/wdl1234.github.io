@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as s,R as a,t as c}from"./framework-96b046e1.js";const r={},_=a("h1",{id:"java反射和泛型",tabindex:"-1"},[a("a",{class:"header-anchor",href:"#java反射和泛型","aria-hidden":"true"},"#"),c(" java反射和泛型")],-1),o=[_];function n(d,l){return t(),s("div",null,o)}const h=e(r,[["render",n],["__file","java_class.html.vue"]]);export{h as default};

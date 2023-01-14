@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as c,R as e,t as r}from"./framework-96b046e1.js";const s={},_=e("h1",{id:"jvm",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#jvm","aria-hidden":"true"},"#"),r(" JVM")],-1),o=[_];function n(d,i){return t(),c("div",null,o)}const l=a(s,[["render",n],["__file","java_jvm.html.vue"]]);export{l as default};

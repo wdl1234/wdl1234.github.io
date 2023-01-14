@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as s,R as e,t as c}from"./framework-96b046e1.js";const r={},_=e("h1",{id:"java基础知识",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#java基础知识","aria-hidden":"true"},"#"),c(" Java基础知识")],-1),o=[_];function n(d,i){return t(),s("div",null,o)}const l=a(r,[["render",n],["__file","java_base.html.vue"]]);export{l as default};

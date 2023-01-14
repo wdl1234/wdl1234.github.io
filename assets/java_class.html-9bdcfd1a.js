@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-6a7f1e34","path":"/Java/base/java_class.html","title":"java反射和泛型","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"Java/base/java_class.md"}');export{a as data};
