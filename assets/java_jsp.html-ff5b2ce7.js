@@ -1,0 +1,1 @@
+import{_ as a,p as s,q as t,R as e,t as c}from"./framework-96b046e1.js";const r={},_=e("h1",{id:"jsp",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#jsp","aria-hidden":"true"},"#"),c(" jsp")],-1),o=[_];function n(d,i){return s(),t("div",null,o)}const l=a(r,[["render",n],["__file","java_jsp.html.vue"]]);export{l as default};
