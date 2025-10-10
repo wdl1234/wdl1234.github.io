@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-02b9a0c8","path":"/Java/base/java_list.html","title":"集合框架","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1684158432000,"contributors":[{"name":"xt","email":"xt@qq.com","commits":1}]},"filePathRelative":"Java/base/java_list.md"}');export{a as data};

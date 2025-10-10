@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,R as e,t as c}from"./framework-96b046e1.js";const r={},_=e("h1",{id:"集合框架",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#集合框架","aria-hidden":"true"},"#"),c(" 集合框架")],-1),o=[_];function n(d,i){return a(),s("div",null,o)}const h=t(r,[["render",n],["__file","java_list.html.vue"]]);export{h as default};

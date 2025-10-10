@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-70ac9c62","path":"/Java/web/java_servlet.html","title":"servlet","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1684158432000,"contributors":[{"name":"xt","email":"xt@qq.com","commits":1}]},"filePathRelative":"Java/web/java_servlet.md"}');export{e as data};

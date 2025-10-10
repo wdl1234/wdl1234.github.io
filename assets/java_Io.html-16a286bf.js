@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as o,R as e,t as c}from"./framework-96b046e1.js";const r={},s=e("h1",{id:"java-io",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#java-io","aria-hidden":"true"},"#"),c(" Java IO")],-1),_=[s];function n(d,i){return t(),o("div",null,_)}const l=a(r,[["render",n],["__file","java_Io.html.vue"]]);export{l as default};
